@@ -11,8 +11,9 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var btnBarCode: UIButton!
+    @IBOutlet weak var txtInput: UITextField!
     @IBOutlet weak var imgOutput: UIImageView!
-    let str = "Hello world"
+    var str: String = ""
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -20,7 +21,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+        str = txtInput.text!
     }
 
     @IBAction func btnBarCode(_ sender: Any) {
