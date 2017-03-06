@@ -21,13 +21,15 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        str = txtInput.text!
+        
     }
 
     @IBAction func btnBarCode(_ sender: Any) {
+        str = txtInput.text!
         imgOutput.image = generateBarCode(from: str)
     }
     @IBAction func btnQRCode(_ sender: Any) {
+        str = txtInput.text!
         imgOutput.image = generateQRCode(from: str)
     }
     
