@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB10C4E144796C23A1591535BAC19CEA3E6773D0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FB10C4E144796C23A1591535BAC19CEA3E6773D0" : 9223372036854775807,
+    "B3881CAB5BD40EC5A6A623DB040156CA43321B7E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "656239F7-0F34-4152-B98C-1CC2A3AD32E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FB10C4E144796C23A1591535BAC19CEA3E6773D0" : "generateBarCodeAndQRCode\/",
+    "B3881CAB5BD40EC5A6A623DB040156CA43321B7E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "generateBarCodeAndQRCode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "generateBarCodeAndQRCode.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/crkacer\/ios-programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3881CAB5BD40EC5A6A623DB040156CA43321B7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/crkacer\/BarCode-QRCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB10C4E144796C23A1591535BAC19CEA3E6773D0"
+    }
+  ]
+}
